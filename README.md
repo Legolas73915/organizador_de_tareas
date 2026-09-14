@@ -27,8 +27,8 @@ Las tareas se guardan en un archivo JSON (`tareas.txt`) para mantener la informa
 
 ## ▶️ Cómo ejecutar
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/TU_USUARIO/organizador-de-tareas-python.git
+   ```bash[
+   git clone https://github.com/Legolas73915/organizador_de_tareas
 
 2. Entra a la carpeta:
    cd organizador-de-tareas-python
